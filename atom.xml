@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Monstar的小酒馆</title>
-  <subtitle>纵使困顿难行,亦当砥砺奋进</subtitle>
+  <title>Monstar的小酒館</title>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
